@@ -1,16 +1,25 @@
-### Hi there 👋
+### Greetings, Tech Enthusiasts! I'm Solomon, a Polyglot Creator 🚀
 
-<!--
-**Dr-Akpanabasi/Dr-Akpanabasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I Have a Strong Passion for Expanding my knowledge of Software Architecture.
 
-Here are some ideas to get you started:
+🌟 Actively Seeking Engaging Freelance and Full-time Opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 Spearheading High-Performance Development Teams 🚀
+
+🌐 Passionate Pioneer in Full-Stack Proficiency and Advocate for Open-Source Collaboration
+
+📫 Reach me at solomondev002@gmail.com
+
+### The Tools and Technologies I Employ Include⚡ ###
+
+ - ✔ HTML5, CSS3, SCSS, JavaScript
+ - ✔ ReactJs, TypeScript, NextJs, ReduxJs,
+ - ✔ ReduxJS Toolkit, ExpressJs
+ - ✔ AngularJs, React Native
+ - ✔ TailWindCSS, BootStrapCSS
+ - ✔ Git, GitLab, BitBucket
+ - ✔ Material-UI, Chakra-UI, StoryBook
+ - ✔ NodeJS, MERN Stack
+ - ✔ Figma, AdobeXD, WordPress
+
+### Join me in crafting exceptional digital solutions, and let's embark on this collaborative journey together! 💡
