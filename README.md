@@ -22,4 +22,4 @@
  - ✔ Git | GitHub | GitLab | BitBucket | Jira | Trello |
  - ✔ NodeJS | MongoDB | MERN Stack | WordPress |  Figma, AdobeXD.
 
-### Join me in crafting exceptional digital solutions, and let's embark on this collaborative journey together! 💡
+### Join me in crafting exceptional digital solutions & let's embark on this collaborative journey together 💡
