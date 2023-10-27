@@ -1,4 +1,4 @@
-### Greetings, Tech Enthusiasts! I'm Solomon, a Polyglot Creator 🚀
+### Greetings, Tech Enthusiasts! I'm Solomon, a Polyglot Front-End Engineer 🚀
 
 📚 I Have a Strong Passion for Expanding my Knowledge of Software Architecture.
 
