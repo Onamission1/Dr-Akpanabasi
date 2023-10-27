@@ -1,6 +1,6 @@
 ### Greetings, Tech Enthusiasts! I'm Solomon, a Polyglot Creator 🚀
 
-📚 I Have a Strong Passion for Expanding my knowledge of Software Architecture.
+📚 I Have a Strong Passion for Expanding my Knowledge of Software Architecture.
 
 🌟 Actively Seeking Engaging Freelance and Full-time Opportunities.
 
@@ -11,8 +11,6 @@
 🔗 LinkedIn: https://www.linkedin.com/in/dev-solomon-miller/
 
 🔗 UpWork: https://www.upwork.com/freelancers/~01eb40821412e198c8
-
-📫 Reach me at solomondev002@gmail.com
 
 ### The Tools and Technologies I Employ Include⚡ ###
 
