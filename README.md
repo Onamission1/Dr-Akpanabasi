@@ -19,7 +19,7 @@
  - ✔ ReduxJS Toolkit | ExpressJs | AngularJs |
  - ✔ React Native | TailWindCSS | BootStrapCSS |
  - ✔ Material-UI | TailWindCSS | Chakra-UI | StoryBook |
- - ✔ Git | GitHub | GitLab | BitBucket | Jira | Trello |
+ - ✔ Git | GitHub | GitLab | BitBucket | Jira | Trello | Apollo GraphQL |
  - ✔ NodeJS | MongoDB | MERN Stack | WordPress |  Figma, AdobeXD.
 
 ### Join me in crafting exceptional digital solutions & let's embark on this collaborative journey together 💡
