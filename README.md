@@ -10,8 +10,6 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/dev-solomon-miller/
 
-🔗 UpWork: https://www.upwork.com/freelancers/~01eb40821412e198c8
-
 ### The Tools and Technologies I Employ Include⚡ ###
 
  - ✔ HTML5 | CSS3 | SCSS | JavaScript |
